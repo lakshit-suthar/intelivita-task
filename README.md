@@ -46,8 +46,8 @@ Follow these steps to set up and run the project locally:
 
 ## Usage
 
-1. Access the admin panel via http://your-app-url/admin/login. credentials: (lakshit@yopmail.com | 123456789)
-2. Access the user panel via http://your-app-url/login. credentials: (admin@yopmail.com | 123456789)
+1. Access the admin panel via http://your-app-url/admin/login. credentials: (admin@yopmail.com | 123456789)
+2. Access the user panel via http://your-app-url/login. credentials: (lakshit@yopmail.com | 123456789)
 
 ## Additional Information
 
